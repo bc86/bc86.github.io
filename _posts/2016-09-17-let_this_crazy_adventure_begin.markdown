@@ -5,7 +5,7 @@ date:   2016-09-16 22:45:46 -0400
 ---
 
 
-You read so many different blog posts describing why this person or that person wants to learn about software development or in layman's term 'coding'.  Either it's they're driven by passion or they're gonna use that knowledge to change the world.
+You read so many different blog posts describing why this person or that person wants to learn about software development or in layman's term \'coding\'.  Either it's they're driven by passion or they're gonna use that knowledge to change the world.
 
 Well guess what, here's another post with a little bit of both.  I remember ever since I was a little kid I liked taking things apart and tinkering with them, seeing what was inside and how they worked and usually, at that age, no longer having something because I couldn't put it back together.  That philosophy has carried on throughout my entire life, well except for the fact that I've gotten better at reassembling things.
 
