@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Things I've Learned Along The Way
 header-img: img/home-bg.png
 email: michael.4486@gmail.com
 copyright_name: bc86
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Good, The Bad and The Ugly
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bc86
