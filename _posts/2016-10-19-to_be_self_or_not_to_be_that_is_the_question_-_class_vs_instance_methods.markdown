@@ -9,17 +9,17 @@ Let's get right into it.  A Ruby class method is described, as a method that is 
 
 Let's look at an example.  Coming from an automotive background I will use a Car class.
 ```
-class Car;
-    def initialize(year, make, model)  #instance method;
-        @year = year;
-        @make = make;
-        @model = model;
-    end;
+class Car
+    def initialize(year, make, model)  #instance method
+        @year = year
+        @make = make
+        @model = model
+    end
     
-    def self.horn                      #class method;
-        puts "HONK! HONK!";
-    end;
-end;
+    def self.horn  #class method
+        puts "HONK! HONK!"
+    end
+end
 ```
 This is a very simple example but represents the two different methods.  First we will start with the instance method.  As we do keep this in mind.  Use instance methods when you need to act on a particular instance of the class.  Every car in the world, or instance of a car, has a year, make, and model.  The arguments for the initailize can change for each instance of the car.  So for example:
 ```
