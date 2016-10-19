@@ -24,7 +24,7 @@ end
 ```
 
 This is a very simple example but represents the two different methods.  First we will start with the instance method.  As we do keep this in mind.  Use instance methods when you need to act on a particular instance of the class.  Every car in the world, or instance of a car, has a year, make, and model.  The arguments for the initailize can change for each instance of the car.  So for example
-`'BMW = Car.new(2015, "BMW", "X5") =>#<Car:0x007fcbb600e9a0 @make="BMW", @model="X5", @year=2015>`
+`BMW = Car.new(2015, "BMW", "X5") =>#<Car:0x007fcbb600e9a0 @make="BMW", @model="X5", @year=2015>`
 Here we have an instance of the Car class.  Look what happens if we forget the `new` keyword.
 `BMW = Car(2015, "BMW", "X5") =>#NoMethodError: undefined method  'Car'`
 We must always use the `new` keyword when creating a new instance of Car.
