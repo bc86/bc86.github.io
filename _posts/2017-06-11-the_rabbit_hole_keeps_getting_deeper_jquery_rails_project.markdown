@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Rabbit Hole keeps getting deeper!... jQuery / Rails Project"
-date:   2017-06-11 22:47:19 +0000
+date:   2017-06-11 18:47:20 -0400
 ---
 
 
