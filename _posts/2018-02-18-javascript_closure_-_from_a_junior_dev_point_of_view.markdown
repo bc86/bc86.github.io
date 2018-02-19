@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript Closure - from a Junior dev point of view"
-date:       2018-02-19 01:30:16 +0000
+date:       2018-02-18 20:30:17 -0500
 permalink:  javascript_closure_-_from_a_junior_dev_point_of_view
 ---
 
@@ -64,7 +64,7 @@ function example() {
 example(); // { a: 1100, b: 3100 }
 ```
 
-With this example `privateFunction(ind)` is considered a private function because it is not accessable to the outside world. Javascript Closures are a very important fundamental to grasp that will only come with experience and practice. But are a must if you want to expand your knowledge and be considered a legitimate developer. 
+With this example `privateFunction(ind)` is considered a private function because it is not accessible to the outside world. Javascript Closures are a very important fundamental to grasp that will only come with experience and practice. But are a must if you want to expand your knowledge and be considered a legitimate developer. 
 
 There are plenty of other examples where closures are used. For example with Classes and inheritance. But that's for another day. On to the next topic. Bye.
 
