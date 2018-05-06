@@ -14,7 +14,7 @@ During a job interview I learned about a different CMS that I haven't heard of b
 
 First things first, I had no idea how many CMS's there are. I read an article that said there are over 150 different CMS's in the wild. Quickly for anyone that doesn't know what CMS stands for. CMS or Content Management System, is a software application or set of related programs that are used to create and manage digital content. Throughtout this blog I'll probably compare Craft with Wordpress because of how popular Wordpress is. Wordpress powers 26% of the sites currently online.
 
-### Installation and Setup
+## Installation and Setup
 
 Craft 3 was released on April 4th. Craft like alot of CMS's use the PHP programming language. But also relies on the Yii framework and Twig templating engine. Craft relies on the MVC, Model View Controller, pattern and as a result of this load speeds are incredible. Craft has a great tutorial on getting started and [installation](https://docs.craftcms.com/v3/installation.html). It also discusses some requirements expected of your server. Go look over their instructions and then come back and if you followed the instructions you should eventually be greeted with a congratulatory image similar to this. 
 
@@ -22,7 +22,7 @@ Craft 3 was released on April 4th. Craft like alot of CMS's use the PHP programm
 
 Now that we have the editor installed let's look at it's features.
 
-### Craft editor and preview
+## Craft editor and preview
 
 Let me mention at the beginning, I've only downloaded the demo version of Craft 3. So I don't have access to all the features that Craft offers but at least the demo gives a good working example. Craft's matrix is great for laying out, any and all types of, your information. A great feature I noticed is localization. Craft's site content can be targeted at specific languages and territories. But what really impressed me was Live Preview. I felt Live Preview was very powerful. You have the ability to check break points of your page constantly. This is a great way to check the progress of your page without a rude awakening come launch day.
 
@@ -44,7 +44,7 @@ As developers we know how important SEO is. Craft has SEO covered also. We know 
 
 Ok another comparison. Wordpress covers eCommerce with WooCommerce. What does Craft offer? Just another plugin? Nope. Craft has a whole nother Craft Commerce to cover all your sales needs. Now I didn't get a chance to work with Craft Commerce but if it's anything like Craft 3 it won't disappoint. 
 
-### Greatness isn't Free
+## Greatness isn't Free
 
 ![](https://media.giphy.com/media/dhz1gKi7WKWpW/giphy.gif)
 
