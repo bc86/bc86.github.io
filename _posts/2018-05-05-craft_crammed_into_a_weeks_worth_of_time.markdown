@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Craft crammed into a weeks worth of time"
-date:       2018-05-06 01:17:29 +0000
+date:       2018-05-05 21:17:30 -0400
 permalink:  craft_crammed_into_a_weeks_worth_of_time
 ---
 
